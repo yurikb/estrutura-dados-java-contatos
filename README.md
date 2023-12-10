@@ -1,2 +1,2 @@
 # estrutura-dados-java-contatos
-Java Spring Backend App with CRUD functions in Contato/Lista classes and ArrayList methods
+Java Spring Backend App with CRUD functions in Contato/Lista classes and ArrayList methods, in Portuguese/Brazil
